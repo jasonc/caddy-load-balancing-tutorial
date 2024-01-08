@@ -38,7 +38,10 @@
              ```
 
 - **Virtual Machine Creation**:
-`vagrant up`
+
+    ```
+    vagrant up
+    ```
 
 #### Caddy Configuration Files:
 - **Caddyfile.random**
