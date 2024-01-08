@@ -1,0 +1,5 @@
+:80 {
+  reverse_proxy 192.168.56.51 192.168.56.52 {
+    lb_policy ip_hash
+  }
+}
