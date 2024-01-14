@@ -59,7 +59,8 @@
 
 #### Manual Setup Steps (if not using install.sh):
 - Install and Configure Caddy Manually:
-	- Follow the steps in the `install.sh` script for each server.
+	- [Follow the tutorial video here](https://www.linuxtrainingacademy.com/caddy-load-balancing-tutorial/).
+	- Or duplicate the steps in the `install.sh` script for each server
 
 #### Load Balancing Configurations:
 - **Switching Load Balancer Configurations**:
